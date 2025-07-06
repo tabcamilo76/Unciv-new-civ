@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Salto sergial",
-		"unitType": "Missile",
+		"unitType": "Atomic Bomber",
 		"uniqueTo": "SergioATP",
 		"replaces": "Nuclear Missile",
 		"movement": 8,
-		"strength": 340,
-		"rangedStrength": 72,
+		"strength": 900,
+		"rangedStrength": 900,
 		"range": 10,
 		"cost": 550,
 		"requiredTech": "Ballistics",
