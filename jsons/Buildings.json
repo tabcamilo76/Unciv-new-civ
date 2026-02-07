@@ -18,7 +18,7 @@
 		"uniqueTo": "SergioATP",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"science": 7000000,
+		"science": 10000,
 		"uniques": ["Obten un bono del profesor cientifico sergius"],
 		"requiredTech": "Mining"
 	}
