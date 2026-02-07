@@ -24,6 +24,8 @@
 		"culture": 1000,
 		"happiness": 500,
 		"faith": 1000,
+		"gold": 1000,
+		"maintenance": 10,
 		"uniques": ["Obten un bono del profesor cientifico sergius"],
 		"requiredTech": "Mining"
 	}
