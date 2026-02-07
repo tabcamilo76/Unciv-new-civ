@@ -20,6 +20,6 @@
 		"hurryCostModifier": 160,
 		"science": 7000000,
 		"uniques": ["Obten un bono del profesor cientifico sergius"],
-		"requiredTech": "Minery"
+		"requiredTech": "Mining"
 	}
 ]
