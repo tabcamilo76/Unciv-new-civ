@@ -34,4 +34,38 @@
 			"Tubo malo","La peste","Pulido","Sergioland","Adenosin","Trifosfato","Colesterol","Triglicéridos","Murillo","Nucleo",
 			"Pancreas"]
 	}
+
+	{
+		"name": "English",
+		"leaderName": "Lina 777",
+		"adjective": ["Lina la Benson"],
+		"startBias": ["desert"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "¡Hola!, Claro... Que no habrá clase libre",
+		"startIntroPart2": "No olvides hacer el liveworksheet",
+		
+		"declaringWar": "Te voy a aplastar",
+		"attacked": "Te voy a engullir",
+		"defeated": "Me pegó re duro",
+		"introduction": "Vamos a aprender de mixed conditionals",
+		
+		"neutralHello": "¿Si hiciste el liveworksheet?",
+		"neutralLetsHearIt": ["Veamos."],
+		"neutralNo": ["Me rehuso"],
+		"neutralYes": ["Acepto"],
+
+		"hateHello": "No recibo porque tengo hambrecita",
+		"hateLetsHearIt": ["Veamos"],
+		"hateNo": ["Imposible aceptar"],
+		"hateYes": ["Muy bien"],
+		
+		"afterPeace": ["ayayayayayay"],
+		"tradeRequest": "La mejor oferta en nombre de lina777",
+
+		"outerColor": [9,94,90],
+		"innerColor": [18,94,9],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Liveworksheet","Verb To Be","English Area","Tengo Hambrecita","Estoy Llenita"]
+	}
 ]
