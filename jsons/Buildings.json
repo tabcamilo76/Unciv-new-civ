@@ -2,7 +2,7 @@
 	{
 		"name": "Liveworksheet",
 		"replaces": "Monument",
-		"uniqueTo": "Lina 777",
+		"uniqueTo": "English",
 		"cost": 480,
 		"happiness": 1,
 		"culture": 2,
