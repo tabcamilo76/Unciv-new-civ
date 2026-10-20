@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Área de Sociales",
+    "era": "Classical era",
+    "priorities": {
+      "Default": 10,
+      "Science": 15
+    },
+    "uniques": [
+      "+1 Culture from all Cities",
+      "+1 Gold from city connections",
+      "Triggers a Golden Age"
+    ]
+  },
+  {
+    "name": "Constitución",
+    "policyBranch": "Área de Sociales",
+    "row": 1,
+    "column": 1,
+    "uniques": [
+      "+10% Production when constructing Wonders"
+    ]
+  },
+  {
+    "name": "Sello, Rápido",
+    "policyBranch": "Área de Sociales",
+    "requires": ["Constitución"],
+    "row": 2,
+    "column": 1,
+    "uniques": [
+      "+15% Science in all cities"
+    ]
+  },
+  {
+    "name": "Clase Libre",
+    "policyBranch": "Área de Sociales",
+    "row": 1,
+    "column": 2,
+    "uniques": [
+      "Triggers a Golden Age",
+      "+1 Science from all Cities",
+      "+1 Happiness from all Cities"
+    ]
+  },
+  {
+    "name": "Cátedra de la Paz",
+    "policyBranch": "Área de Sociales",
+    "requires": ["Clase Libre"],
+    "row": 2,
+    "column": 2,
+    "uniques": [
+      "Triggers a Golden Age",
+      "+1 Science from all Cities",
+      "+1 Happiness from all Cities"
+    ]
+  },
+  {
+    "name": "Área de Sociales Completa",
+    "policyBranch": "Área de Sociales",
+    "uniques": [
+      "Triggers a Golden Age",
+      "+2 Culture from all Cities"
+    ]
+  }
+]
