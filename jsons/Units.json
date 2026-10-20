@@ -22,8 +22,21 @@
 		"strength": 14,
 		"cost": 30,
 		"requiredTech": "Agriculture",
-		"obsoleteTech": "Scientific Theory",
+		"obsoleteTech": "Philosophy",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+		{
+		"name": "Lina V1.0",
+		"unitType": "Melee",
+		"uniqueTo": "English",
+	    "replaces": "Verity",
+		"movement": 5,
+		"strength": 19,
+		"cost": 67,
+		"requiredTech": "Philosophy",
+		"obsoleteTech": "Civil Service",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
