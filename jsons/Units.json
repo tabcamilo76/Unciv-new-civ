@@ -16,7 +16,7 @@
 	}
 	{
 		"name": "Verity",
-		"unitType": "Sword",
+		"unitType": "Melee",
 		"uniqueTo": "English",
 		"movement": 2,
 		"strength": 14,
