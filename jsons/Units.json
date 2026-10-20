@@ -14,4 +14,17 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Verity",
+		"unitType": "sword",
+		"uniqueTo": "English",
+		"movement": 2,
+		"strength": 14,
+		"cost": 30,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
 ]
