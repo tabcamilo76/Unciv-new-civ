@@ -1,6 +1,6 @@
 [
   {
-    "name": "Área de Sociales",
+    "name": "Area de Sociales",
     "era": "Classical era",
     "priorities": {
       "Default": 10,
@@ -11,8 +11,8 @@
     ]
   },
   {
-    "name": "Constitución",
-    "policyBranch": "Área de Sociales",
+    "name": "Constitucion",
+    "policyBranch": "Area de Sociales",
     "row": 1,
     "column": 1,
     "uniques": [
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "name": "Sello, Rápido",
-    "policyBranch": "Área de Sociales",
-    "requires": ["Constitución"],
+    "name": "Sello Rapido",
+    "policyBranch": "Area de Sociales",
+    "requires": ["Constitucion"],
     "row": 2,
     "column": 1,
     "uniques": [
@@ -31,7 +31,7 @@
   },
   {
     "name": "Clase Libre",
-    "policyBranch": "Área de Sociales",
+    "policyBranch": "Area de Sociales",
     "row": 1,
     "column": 2,
     "uniques": [
@@ -40,8 +40,8 @@
     ]
   },
   {
-    "name": "Cátedra de la Paz",
-    "policyBranch": "Área de Sociales",
+    "name": "Catedra de la Paz",
+    "policyBranch": "Area de Sociales",
     "requires": ["Clase Libre"],
     "row": 2,
     "column": 2,
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "name": "Área de Sociales Completa",
-    "policyBranch": "Área de Sociales",
+    "name": "Area de Sociales Completa",
+    "policyBranch": "Area de Sociales",
     "uniques": [
       "Triggers a Golden Age",
       "+2 Culture from all Cities"
