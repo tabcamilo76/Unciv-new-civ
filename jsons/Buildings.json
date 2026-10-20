@@ -3,7 +3,7 @@
 		"name": "Liveworksheet",
 		"replaces": "Monument",
 		"uniqueTo": "English",
-		"cost": 480,
+		"cost": 40,
 		"happiness": 1,
 		"culture": 2,
 		"maintenance": 2,
