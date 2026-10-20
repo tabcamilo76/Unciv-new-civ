@@ -46,6 +46,15 @@
         ]
       },
       {
+        "name": "Glosario Con Icono",
+        "requires": ["Clase Libre"],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "+1 [Food] from all Cities"
+        ]
+      },
+      {
         "name": "Area de Sociales Complete",
         "uniques": [
           "Triggers a Golden Age",
