@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Liveworksheet",
+		"replaces": "Monument",
+		"uniqueTo": "Lina 777",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"happiness": 1,
+		"culture": 2,
+		"maintenance": 2,
+		"isNationalWonder": false,
+		"requiredTech": "Agriculture"
 	},
 	{
 		"name": "Milagro Sergial",
