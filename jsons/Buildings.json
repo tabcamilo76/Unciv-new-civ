@@ -27,4 +27,22 @@
 		"uniques": ["Obten un bono del profesor cientifico sergius"],
 		"requiredTech": "Mining"
 	}
+ [
+  {
+    "name": "Kikelandia",
+    "isWonder": true,
+    "cost": 400,
+    "culture": 7,
+    "happiness": 2,
+    "greatPersonPoints": {
+      "Great Scientist": 2,
+      "Great Engineer": 2
+    },
+    "requiredTech": "Education",
+    "uniques": [
+      "+30% Science in all cities",
+      "Provides 1 Free Technology"
+    ],
+    "quote": "\"En Kikelandia la felicidad es infinita. -Kike\""
+  }
 ]
