@@ -27,7 +27,6 @@
 		"uniques": ["Obten un bono del profesor cientifico sergius"],
 		"requiredTech": "Mining"
 	}
- [
   {
     "name": "Kikelandia",
     "isWonder": true,
