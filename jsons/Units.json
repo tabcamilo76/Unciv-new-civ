@@ -16,7 +16,7 @@
 	}
 	{
 		"name": "Verity",
-		"unitType": "sword",
+		"unitType": "Sword",
 		"uniqueTo": "English",
 		"movement": 2,
 		"strength": 14,
