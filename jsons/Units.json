@@ -1,19 +1,26 @@
 [
   {
+  {
     "name": "Salto sergial",
-    "unitType": "Atomic Bomber",
+    "unitType": "Melee",
     "uniqueTo": "SergioATP",
     "replaces": "Nuclear Missile",
-    "movement": 8,
+    "movement": 15,
     "strength": 900,
-    "rangedStrength": 900,
-    "range": 10,
+    "rangedStrength": 0,
+    "range": 1,
     "cost": 550,
     "requiredTech": "Ballistics",
     "requiredResource": "Uranium",
-    "promotions": ["Logistics", "Accuracy I"],
+    "promotions": [
+        "Logistics",
+        "Accuracy I",
+    ],
+    "areaDamage": 900,
+    "areaRadius": 5,
+    "meleeAttack": true,
     "attackSound": "phasers"
-  },
+  }
   {
     "name": "Verity",
     "unitType": "Melee",
