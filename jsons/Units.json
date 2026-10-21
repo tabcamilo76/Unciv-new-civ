@@ -1,25 +1,22 @@
 [
   
   {
-    "name": "Salto sergial",
-    "unitType": "Melee",
-    "uniqueTo": "SergioATP",
-    "replaces": "Nuclear Missile",
-    "movement": 15,
-    "strength": 900,
-    "rangedStrength": 0,
-    "range": 1,
-    "cost": 550,
-    "requiredTech": "Ballistics",
-    "requiredResource": "Uranium",
-    "promotions": [
-        "Logistics",
-        "Accuracy I",
-    ],
-    "areaDamage": 900,
-    "areaRadius": 5,
-    "meleeAttack": true,
-    "attackSound": "phasers"
+  "name": "Salto sergial",
+  "unitType": "Melee",
+  "uniqueTo": "SergioATP",
+  "replaces": "Nuclear Missile",
+  "movement": 20,
+  "strength": 1100,
+  "cost": 550,
+  "requiredTech": "Ballistics",
+  "requiredResource": "Uranium",
+  "uniques": [
+    "[14] additional attacks per turn",
+    "[+10] Range",
+    "Attacks also target [Enemy] units within [5] tiles, with damage decreasing by distance"
+  ],
+  "promotions": ["Logistics", "Accuracy I"],
+  "attackSound": "phasers"
   }
   {
     "name": "Verity",
