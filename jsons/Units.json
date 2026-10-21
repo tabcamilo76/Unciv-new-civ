@@ -1,4 +1,4 @@
-[
+       [
   
   {
   "name": "Salto sergial",
@@ -13,8 +13,8 @@
   "uniques": [
   "[14] additional attacks per turn",
   "[+10] Range",
-  "Attacks also target [All] units within [5] tiles, with damage decreasing by distance"
-  ],
+  "Attacks also target [Military] units within [5] tiles, with damage decreasing by distance"
+ ],
   "promotions": ["Logistics", "Accuracy I"],
   "attackSound": "phasers"
   }
