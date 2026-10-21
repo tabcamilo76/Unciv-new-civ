@@ -10,7 +10,7 @@
   "cost": 550,
   "requiredTech": "Ballistics",
   "uniques": [
-  "[30] additional attacks per turn",
+  "[-1] additional attacks per turn",
   "[+10] Range",
   ],
   "promotions": ["Logistics", "Accuracy I"],
