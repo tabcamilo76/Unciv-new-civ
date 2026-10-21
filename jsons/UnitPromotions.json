@@ -1,11 +1,10 @@
-
-{
-  "name": "Salto Supremo",
-  "unitTypes": ["Melee"],
-  "uniques": [
-    "[29] additional attacks per turn"
-  ],
-  "civilopediaText": [
-    { "text": "Permite realizar hasta 30 ataques por turno." }
-  ]
-}
+[
+  {
+    "name": "Salto Supremo",
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[29] additional attacks per turn"
+    ],
+    "icon": "Promotion"
+  }
+]
