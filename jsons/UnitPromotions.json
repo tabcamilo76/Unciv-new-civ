@@ -1,9 +1,9 @@
 [
   {
     "name": "Salto Supremo",
-    "unitTypes": ["Melee"],
+    "unitTypes": [],
     "uniques": [
-      "[100] additional attacks per turn"
+      "[99] additional attacks per turn"
     ],
     "icon": "Promotion"
   }
