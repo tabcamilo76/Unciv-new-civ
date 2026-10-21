@@ -1,21 +1,19 @@
-       [
-  
+[
   {
-  "name": "Salto sergial",
-  "unitType": "Melee",
-  "uniqueTo": "SergioATP",
-  "replaces": "Nuclear Missile",
-  "movement": 100,
-  "strength": 1500,
-  "cost": 550,
-  "requiredTech": "Ballistics",
-  "uniques": [
-  "[-1] additional attacks per turn",
-  "[+10] Range",
-  ],
-  "promotions": ["Logistics", "Accuracy I","Salto Supremo"],
-  "attackSound": "phasers"
-  }
+    "name": "Salto sergial",
+    "unitType": "Melee",
+    "uniqueTo": "SergioATP",
+    "replaces": "Nuclear Missile",
+    "movement": 999999,
+    "strength": 1500,
+    "cost": 550,
+    "requiredTech": "Ballistics",
+    "uniques": [
+      "[+10] Range"
+    ],
+    "promotions": ["Logistics", "Accuracy I", "Salto Supremo"],
+    "attackSound": "phasers"
+  },
   {
     "name": "Verity",
     "unitType": "Melee",
@@ -39,7 +37,7 @@
     "replaces": "Verity",
     "movement": 5,
     "strength": 19,
-    "cost": 67,
+    "cost": 80,
     "requiredTech": "Philosophy",
     "obsoleteTech": "Civil Service",
     "promotions": ["Ignore terrain cost"],
