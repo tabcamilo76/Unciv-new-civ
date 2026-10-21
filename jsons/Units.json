@@ -13,7 +13,7 @@
   "[-1] additional attacks per turn",
   "[+10] Range",
   ],
-  "promotions": ["Logistics", "Accuracy I"],
+  "promotions": ["Logistics", "Accuracy I","Salto Supremo"],
   "attackSound": "phasers"
   }
   {
