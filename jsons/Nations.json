@@ -68,14 +68,14 @@
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Liveworksheet","Verb To Be","English Area","Tengo Hambrecita","Estoy Llenita","Past Simple","Lina RTDA","Inglés SAS R"]
 	}
-	{
-		"name": "Johan",
-		"leaderName": "Fonseca",
-		"adjective": ["Johan el Esclavo"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType": "Diplomatic",
-
-		"uniques": [
+	[
+  {
+    "name": "Johan",
+    "leaderName": "Fonseca",
+    "adjective": ["Johan el Esclavo"],
+    "startBias": ["Tundra"],
+    "preferredVictoryType": "Diplomatic",
+    "uniques": [
       "[-50]% [Science] [in all cities]",
       "[-50]% [Production] [in all cities]",
       "[-50]% [Food] [in all cities]",
@@ -85,30 +85,33 @@
       "[-50]% Strength <for [All] units>",
       "[+100]% maintenance costs <for [All] units>"
     ],
-		"startIntroPart1": "Ayayayayay no me pegues",
-		"startIntroPart2": "No, en la espalda no ayyyyy",
-		
-		"declaringWar": "Me voy a rebelar",
-		"attacked": "Te voy a pegar",
-		"defeated": "Me dejaste la espalda roja",
-		"introduction": "Ayayay",
-		
-		"neutralHello": "Hola, te saluda Johan",
-		"neutralLetsHearIt": ["Veamos."],
-		"neutralNo": ["Me rehuso"],
-		"neutralYes": ["Acepto"],
-
-		"hateHello": "Este superniño",
-		"hateLetsHearIt": ["Veamos"],
-		"hateNo": ["Imposible aceptar"],
-		"hateYes": ["Muy bien"],
-		
-		"afterPeace": ["ayayayayayay"],
-		"tradeRequest": "Pido permiso para que aceptes",
-
-		"outerColor": [0,0,0],
-	    "innerColor": [207, 68, 33],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["Phonkseca","Espaldita","Dolor Perpetuo","Viáticos","Mi sobadera","Yoan","Ux","Bentin"]
-}
+    "startIntroPart1": "Ayayayayay no me pegues",
+    "startIntroPart2": "No, en la espalda no ayyyyy",
+    "declaringWar": "Me voy a rebelar",
+    "attacked": "Te voy a pegar",
+    "defeated": "Me dejaste la espalda roja",
+    "introduction": "Ayayay",
+    "neutralHello": "Hola, te saluda Johan",
+    "neutralLetsHearIt": ["Veamos."],
+    "neutralNo": ["Me rehuso"],
+    "neutralYes": ["Acepto"],
+    "hateHello": "Este superniño",
+    "hateLetsHearIt": ["Veamos"],
+    "hateNo": ["Imposible aceptar"],
+    "hateYes": ["Muy bien"],
+    "afterPeace": ["ayayayayayay"],
+    "tradeRequest": "Pido permiso para que aceptes",
+    "outerColor": [0, 0, 0],
+    "innerColor": [207, 68, 33],
+    "cities": [
+      "Phonkseca",
+      "Espaldita",
+      "Dolor Perpetuo",
+      "Viáticos",
+      "Mi sobadera",
+      "Yoan",
+      "Ux",
+      "Bentin"
+    ]
+  }
 ]
