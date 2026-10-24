@@ -1,4 +1,3 @@
-
 [
   {
     "name": "SergioATP",
@@ -6,53 +5,34 @@
     "adjective": ["SergioATP"],
     "startBias": ["Snow"],
     "preferredVictoryType": "Scientific",
-
     "startIntroPart1": "¡Hola!, te saludo en nombre del atp.",
     "startIntroPart2": "¡Que el atp te acompañe",
-
     "declaringWar": "¡Nadie puede resistir mi ATP infinito!",
     "attacked": "¿Como te atreves a desafiarme?, ¡morirás!",
     "defeated": "Mi ATP y mi gente siempre será eterno, adios.",
     "introduction": "Veamos cuantos science bonus puedes tener",
-
     "neutralHello": "¿Quieres atp?",
     "neutralLetsHearIt": ["Veamos."],
     "neutralNo": ["Me rehuso"],
     "neutralYes": ["Acepto"],
-
     "hateHello": "No pidas piedad ni atp",
     "hateLetsHearIt": ["Veamos"],
     "hateNo": ["Imposible aceptar"],
     "hateYes": ["Muy bien"],
-
     "afterPeace": ["Las guerras no acabaran con mi atp"],
     "tradeRequest": "En el nombre del ATP, te pido que consideres esta oferta",
-
     "outerColor": [24, 24, 24],
     "innerColor": [212, 182, 150],
     "uniqueName": "Manifest Destiny",
-
+    "uniques": [
+      "[-50]% Gold cost of acquiring tiles [in all cities]",
+      "[+1] Sight"
+    ],
     "cities": [
-      "Salon 110",
-      "Science Bonus",
-      "Jardin de Sergio",
-      "ATP",
-      "Mitocondria",
-      "Maryland",
-      "La grasa",
-      "Reticulo",
-      "Citoplasma",
-      "Tubo malo",
-      "La peste",
-      "Pulido",
-      "Sergioland",
-      "Adenosin",
-      "Trifosfato",
-      "Colesterol",
-      "Triglicéridos",
-      "Murillo",
-      "Nucleo",
-      "Pancreas"
+      "Salon 110", "Science Bonus", "Jardin de Sergio", "ATP", "Mitocondria",
+      "Maryland", "La grasa", "Reticulo", "Citoplasma", "Tubo malo", "La peste",
+      "Pulido", "Sergioland", "Adenosin", "Trifosfato", "Colesterol", "Triglicéridos",
+      "Murillo", "Nucleo", "Pancreas"
     ]
   },
   {
@@ -61,41 +41,32 @@
     "adjective": ["Lina la Benson"],
     "startBias": ["Desert"],
     "preferredVictoryType": "Cultural",
-
     "startIntroPart1": "¡Hola!, Claro... Que no habrá clase libre",
     "startIntroPart2": "No olvides hacer el liveworksheet",
-
     "declaringWar": "Te voy a aplastar",
     "attacked": "Te voy a engullir",
     "defeated": "Me pegó re duro",
     "introduction": "Vamos a aprender de mixed conditionals",
-
     "neutralHello": "¿Si hiciste el liveworksheet?",
     "neutralLetsHearIt": ["Veamos."],
     "neutralNo": ["Me rehuso"],
     "neutralYes": ["Acepto"],
-
     "hateHello": "No recibo porque tengo hambrecita",
     "hateLetsHearIt": ["Veamos"],
     "hateNo": ["Imposible aceptar"],
     "hateYes": ["Muy bien"],
-
     "afterPeace": ["ayayayayayay"],
     "tradeRequest": "La mejor oferta en nombre de lina777",
-
     "outerColor": [99, 150, 147],
     "innerColor": [17, 67, 11],
     "uniqueName": "Manifest Destiny",
-
+    "uniques": [
+      "[-50]% Gold cost of acquiring tiles [in all cities]",
+      "[+1] Sight"
+    ],
     "cities": [
-      "Liveworksheet",
-      "Verb To Be",
-      "English Area",
-      "Tengo Hambrecita",
-      "Estoy Llenita",
-      "Past Simple",
-      "Lina RTDA",
-      "Inglés SAS R"
+      "Liveworksheet", "Verb To Be", "English Area", "Tengo Hambrecita",
+      "Estoy Llenita", "Past Simple", "Lina RTDA", "Inglés SAS R"
     ]
   },
   {
@@ -104,51 +75,39 @@
     "adjective": ["Johan el Esclavo"],
     "startBias": ["Tundra"],
     "preferredVictoryType": "Diplomatic",
-
     "uniques": [
-      "[-50]% [Science] [in all cities]",
-      "[-50]% [Production] [in all cities]",
-      "[-50]% [Food] [in all cities]",
-      "[-50]% [Gold] [in all cities]",
-      "[-50]% [Culture] [in all cities]",
+      "[-50]% [Science]",
+      "[-50]% [Production]",
+      "[-50]% [Food]",
+      "[-50]% [Gold]",
+      "[-50]% [Culture]",
+      "[-50]% growth [in all cities]",
       "[+100]% Unhappiness from [Population] [in all cities]",
-      "[-50]% Strength <for [All] units>",
-      "[+100]% maintenance costs <for [All] units>"
+      "[-50]% Strength",
+      "[+100]% maintenance cost for [All] buildings [in all cities]"
     ],
-
     "startIntroPart1": "Ayayayayay no me pegues",
     "startIntroPart2": "No, en la espalda no ayyyyy",
-
     "declaringWar": "Me voy a rebelar",
     "attacked": "Te voy a pegar",
     "defeated": "Me dejaste la espalda roja",
     "introduction": "Ayayay",
-
     "neutralHello": "Hola, te saluda Johan",
     "neutralLetsHearIt": ["Veamos."],
     "neutralNo": ["Me rehuso"],
     "neutralYes": ["Acepto"],
-
     "hateHello": "Este superniño",
     "hateLetsHearIt": ["Veamos"],
     "hateNo": ["Imposible aceptar"],
     "hateYes": ["Muy bien"],
-
     "afterPeace": ["ayayayayayay"],
     "tradeRequest": "Pido permiso para que aceptes",
-
     "outerColor": [0, 0, 0],
     "innerColor": [207, 68, 33],
-
+    "uniqueName": "Debilidad extrema",
     "cities": [
-      "Phonkseca",
-      "Espaldita",
-      "Dolor Perpetuo",
-      "Viáticos",
-      "Mi sobadera",
-      "Yoan",
-      "Ux",
-      "Bentin"
+      "Phonkseca", "Espaldita", "Dolor Perpetuo", "Viáticos",
+      "Mi sobadera", "Yoan", "Ux", "Bentin"
     ]
   }
 ]
