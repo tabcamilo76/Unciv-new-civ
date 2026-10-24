@@ -72,9 +72,19 @@
 		"name": "Johan",
 		"leaderName": "Fonseca",
 		"adjective": ["Johan el Esclavo"],
-		"startBias": ["Snow"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
-		
+
+		"uniques": [
+      "[-50]% [Science] [in all cities]",
+      "[-50]% [Production] [in all cities]",
+      "[-50]% [Food] [in all cities]",
+      "[-50]% [Gold] [in all cities]",
+      "[-50]% [Culture] [in all cities]",
+      "[+100]% Unhappiness from [Population] [in all cities]",
+      "[-50]% Strength <for [All] units>",
+      "[+100]% maintenance costs <for [All] units>"
+    ],
 		"startIntroPart1": "Ayayayayay no me pegues",
 		"startIntroPart2": "No, en la espalda no ayyyyy",
 		
