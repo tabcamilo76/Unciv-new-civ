@@ -1,64 +1,68 @@
 [
-	{
-		"name": "Liveworksheet",
-		"replaces": "Monument",
-		"uniqueTo": "English",
-		"cost": 40,
-		"happiness": 1,
-		"culture": 2,
-		"maintenance": 2,
-		"isNationalWonder": false,
-		"requiredTech": "Agriculture"
-	},
-	{
-		"name": "Milagro Sergial",
-		"replaces": "Aqueduct",
-		"uniqueTo": "SergioATP",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"science": 10000,
-		"production": 1000,
-		"food": 700,
-		"culture": 1000,
-		"happiness": 500,
-		"faith": 1000,
-		"gold": 1000,
-		"maintenance": 10,
-		"uniques": ["Obten un bono del profesor cientifico sergius"],
-		"requiredTech": "Mining"
-	}
+  {
+    "name": "Liveworksheet",
+    "replaces": "Monument",
+    "uniqueTo": "English",
+    "cost": 40,
+    "happiness": 1,
+    "culture": 2,
+    "maintenance": 2,
+    "isNationalWonder": false,
+    "requiredTech": "Agriculture"
+  },
+  {
+    "name": "Milagro Sergial",
+    "replaces": "Aqueduct",
+    "uniqueTo": "SergioATP",
+    "cost": 80,
+    "hurryCostModifier": 160,
+    "science": 10000,
+    "production": 1000,
+    "food": 700,
+    "culture": 1000,
+    "happiness": 500,
+    "faith": 1000,
+    "gold": 1000,
+    "maintenance": 10,
+    "requiredTech": "Mining",
+    "civilopediaText": [
+      {
+        "text": "Obten un bono del profesor cientifico sergius"
+      }
+    ]
+  },
   {
     "name": "Kikelandia",
     "isWonder": true,
     "cost": 400,
     "culture": 10,
     "happiness": 10,
-	"food": 2,
+    "food": 2,
     "greatPersonPoints": {
       "Great Scientist": 2,
       "Great Engineer": 2
     },
     "requiredTech": "Education",
     "uniques": [
-      "[50]% [Science] [in all cities]",
+      "[+50]% [Science] [in all cities]",
       "Provides 1 Free Technology"
     ],
     "quote": "\"En Kikelandia la felicidad es infinita. -Kike\""
-  }
-	{
+  },
+  {
     "name": "Casa de Mr. Chafapoly",
     "isWonder": true,
     "cost": 150,
     "culture": 2,
     "happiness": 1,
-	"gold": 20,
+    "gold": 20,
     "greatPersonPoints": {
       "Great Scientist": 1
     },
     "requiredTech": "Education",
     "uniques": [
-      "[1]% [Science] [in all cities]",
+      "[+1]% [Science] [in all cities]"
     ],
-    "quote": "\"El Sr. Chafapoly se retira dejandole una banca llena de posibilidades a los jugadores. -Compucleto Gomez""
+    "quote": "\"El Sr. Chafapoly se retira dejandole una banca llena de posibilidades a los jugadores. -Compucleto Gomez\""
   }
 ]
