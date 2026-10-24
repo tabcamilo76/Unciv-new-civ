@@ -31,17 +31,34 @@
     "name": "Kikelandia",
     "isWonder": true,
     "cost": 400,
-    "culture": 7,
-    "happiness": 2,
+    "culture": 10,
+    "happiness": 10,
+	"food": 2,
     "greatPersonPoints": {
       "Great Scientist": 2,
       "Great Engineer": 2
     },
     "requiredTech": "Education",
     "uniques": [
-      "+30% Science in all cities",
+      "[50]% [Science] [in all cities]",
       "Provides 1 Free Technology"
     ],
     "quote": "\"En Kikelandia la felicidad es infinita. -Kike\""
+  }
+	{
+    "name": "Casa de Mr. Chafapoly",
+    "isWonder": true,
+    "cost": 150,
+    "culture": 2,
+    "happiness": 1,
+	"gold": 20,
+    "greatPersonPoints": {
+      "Great Scientist": 1
+    },
+    "requiredTech": "Education",
+    "uniques": [
+      "[1]% [Science] [in all cities]",
+    ],
+    "quote": "\"El Sr. Chafapoly se retira dejandole una banca llena de posibilidades a los jugadores. -Compucleto Gomez""
   }
 ]
